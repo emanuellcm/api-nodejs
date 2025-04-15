@@ -1,2 +1,2 @@
-# api-nodejs
-Projeto criando uma API com Node.js, Express e MongoDB.
+# API - Node.js, Express e MongoDB 🎃
+## Projeto criando uma API com Node.js, Express e MongoDB.
