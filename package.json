@@ -1,0 +1,23 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "api desenvolvida em nodejs com mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuellcm/api-nodejs.git"
+  },
+  "author": "Emanuellcm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuellcm/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/emanuellcm/api-nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
